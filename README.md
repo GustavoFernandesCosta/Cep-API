@@ -49,3 +49,12 @@ O servidor será iniciado em `http://localhost:3000`.
 - **Express** para criação do servidor web.
 - **Axios** para fazer requisições HTTP.
 - **Nodemon** para reiniciar automaticamente o servidor durante o desenvolvimento.
+
+## ℹ️ Utilização da API de Terceiros
+
+A CEP API utiliza uma API de terceiros chamada Via Cep para obter informações detalhadas sobre CEPs. A API é responsável por fornecer dados precisos sobre endereços com base no CEP fornecido.
+
+### ℹ️ Documentação da API Via Cep
+
+Para mais detalhes sobre os parâmetros aceitos e a estrutura das respostas da API Via Cep, consulte a documentação oficial [aqui](https://viacep.com.br/).
+
