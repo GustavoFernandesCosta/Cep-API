@@ -1,4 +1,4 @@
-# Hotel API
+# CEP API
 
 A CEP API é uma API desenvolvida para uma avaliação técnica com o objetivo de implementar um sistema de buscas de CEP.
 
