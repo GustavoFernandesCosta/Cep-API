@@ -48,3 +48,4 @@ O servidor será iniciado em `http://localhost:3000`.
 - **Docker** para containerização do banco de dados.
 - **Express** para criação do servidor web.
 - **Axios** para fazer requisições HTTP.
+- **Nodemon** para reiniciar automaticamente o servidor durante o desenvolvimento.
